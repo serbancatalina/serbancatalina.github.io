@@ -56,7 +56,7 @@ canvas{
 
 #myDescription
 {
-    position: relative
+    position: relative;
     text-align: center;
     color: white;
     font-family:"Brush Script MT", cursive;
